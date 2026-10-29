@@ -23,7 +23,7 @@
 #include <pexpert/pexpert.h>
 #include <sys/param.h>
 #include <sys/types.h>
-#include "../PongProbe.h"
+#include "PongProbe.h"
 
 namespace {
 #include "RootTransportLayout.h"
